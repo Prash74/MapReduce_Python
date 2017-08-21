@@ -1,2 +1,1 @@
-# MapReduce_Python
-Python Implementation of Common MapReduce Problems
+# MapReduce Implementation for common analysis problems in Python 
